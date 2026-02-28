@@ -69,7 +69,7 @@ A collection of machine learning notebooks covering **Supervised Learning** (SVM
 | ANN (50 epochs) | Fashion MNIST | Val Accuracy: 88.30% |
 | MLP | Fashion MNIST | Val Accuracy: ~88% |
 | Rule-based Policy | CartPole | 159.5 / 200 |
-| ANN Policy Gradient | CartPole | 200.0 / 200 ✅ |
+| ANN Policy Gradient | CartPole | 200.0 / 200|
 
 ---
 
